@@ -2,6 +2,10 @@
 
 A robust RESTful API built with **Spring Boot** and **MySQL** that simulates core banking operations. This project demonstrates backend development best practices, including entity relationships, exception handling, and secure database architecture.
 
+User Login Details
+Email: deepesh@test.com
+Pass:  password123
+
 ## 🚀 Tech Stack
 
 * **Language:** Java 17+
@@ -78,3 +82,4 @@ The project uses a relational database with the following structure:
 
 ---
 *Developed by Deepesh Suthar*
+
