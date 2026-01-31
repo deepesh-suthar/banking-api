@@ -32,6 +32,13 @@ The project uses a relational database with the following structure:
 
 ## ⚙️ Getting Started
 
+## ScreenShots
+![Screenshot_2026-01-31-14-44-01-899_com example banking_ui jpg](https://github.com/user-attachments/assets/9a56c366-b7d1-4731-9ab3-5267474a0460)
+![Screenshot_2026-01-31-14-44-05-285_com example banking_ui jpg](https://github.com/user-attachments/assets/44968eb9-af2c-4175-9a4b-ba7c9d9f5aba)
+![Screenshot_2026-01-31-14-44-08-733_com example banking_ui jpg](https://github.com/user-attachments/assets/95a8f92f-5761-45ee-a438-45b6321f4e76)
+![Screenshot_2026-01-31-14-43-55-325_com example banking_ui jpg](https://github.com/user-attachments/assets/c01f4592-e03d-41db-b749-11b4f2573e21)
+
+
 ### Prerequisites
 * Java Development Kit (JDK) 17 or higher
 * MySQL Server installed and running
@@ -82,4 +89,5 @@ The project uses a relational database with the following structure:
 
 ---
 *Developed by Deepesh Suthar*
+
 
